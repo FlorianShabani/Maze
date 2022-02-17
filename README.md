@@ -2,7 +2,7 @@
 # Maze
 Maze generator and maze solving minigame
 
-To run Download jar or run main.
+To run Download jar or run main. Play using arrows
 
 
 
